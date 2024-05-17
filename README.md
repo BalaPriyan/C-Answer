@@ -7,3 +7,5 @@
 
 
 3.[Explain Storage classes in C with suitable example.](https://github.com/BalaPriyan/C-Answer/blob/main/Explain%20Storage%20classes%20in%20C%20with%20suitable%20example.md)
+
+4.[Construct the binary files in C with examples.](https://github.com/BalaPriyan/C-Answer/blob/main/Construct%20the%20binary%20files%20in%20C%20with%20examples.md)
